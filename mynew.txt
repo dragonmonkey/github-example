@@ -2,3 +2,6 @@ This is new file to test github
 No, this is my file.
 Signed.
 DragonMonkey
+
+At the same time, I added some line to create confliction.
+Signed! DragonMonkey
